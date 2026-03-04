@@ -1,0 +1,34 @@
+/* I am making all paragraphs blue and size 18 font*/
+p {
+    color: blue;
+    font-size: 18px;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 24px;
+}
+/* I am making the table border black */
+table {
+    border: 2px solid black;
+}
+/* I am making the id paragraph dark red and bold */
+#special-paragraph {
+    color: darkred;
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+img.logo {
+    width: 200px;
+    height: 150px;
+}
+
+
+
+
+
